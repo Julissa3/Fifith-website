@@ -7,7 +7,7 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
-.botable,td,th{
+.table,td,th{
     height:80px;
     width: 150px;
     background:plum;
